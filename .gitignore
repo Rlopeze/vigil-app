@@ -1,0 +1,12 @@
+node_modules
+dist
+.output
+.vinxi
+.vercel
+.env
+.env.local
+*.log
+.DS_Store
+src/routeTree.gen.ts
+.idea
+.vscode
