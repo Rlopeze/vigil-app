@@ -1,12 +1,8 @@
 node_modules
 dist
-.output
 .vinxi
+.output
 .vercel
+*.tsbuildinfo
 .env
 .env.local
-*.log
-.DS_Store
-src/routeTree.gen.ts
-.idea
-.vscode
