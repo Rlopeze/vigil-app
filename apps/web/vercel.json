@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd ../.. && npm install && npm run build --workspace=apps/web",
+  "outputDirectory": "dist/client",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/_shell.html" }
+  ]
+}
